@@ -1,4 +1,4 @@
-phonenumbers==8.10.2
+phonenumbers==09068442359
 colorama==0.4.1
 requests==2.20.0
 selenium==3.141.0
